@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/click-contrib/click-completion/commit/39e8b5453ee2a816b9fd86c563eeecc59060f7af",
       "git:hexsha": "39e8b5453ee2a816b9fd86c563eeecc59060f7af",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/click-contrib/click-completion/commit/585563de87099d01a171726fae13c95327f18afc",
